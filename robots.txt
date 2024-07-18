@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://otermilato.github.io/sitemap
+Sitemap: https://otermilato.github.io/app/sitemap
+Sitemap: https://otermilato.github.io/assets/sitemap
+Sitemap: https://otermilato.github.io/css/sitemap
+Sitemap: https://otermilato.github.io/includes/sitemap
+Sitemap: https://otermilato.github.io/item/sitemap
+Sitemap: https://otermilato.github.io/src/sitemap
